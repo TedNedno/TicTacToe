@@ -1,0 +1,5 @@
+# This file maps author emails to GitHub's private noreply addresses
+# Format: Preferred Name <preferred@email> Commit Name <commit@email>
+
+# Map TedNedno's email to GitHub private email
+TedNedno <193797279+TedNedno@users.noreply.github.com>
