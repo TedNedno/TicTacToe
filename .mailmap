@@ -1,0 +1,6 @@
+# This file ensures email addresses remain private in Git history
+# It canonicalizes all commits by each author to their preferred GitHub noreply address
+# Format: Preferred Name <preferred@email> [Original Name <original@email>]
+
+# Ensure TedNedno's commits always use GitHub private noreply email
+TedNedno <193797279+TedNedno@users.noreply.github.com>
